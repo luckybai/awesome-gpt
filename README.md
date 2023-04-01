@@ -13,23 +13,23 @@ Contributions most welcome.
 
 ## Model
 
-- [[EN|中文]Transformers](https://github.com/huggingface/transformers) - State-of-the-art Machine Learning for JAX, PyTorch and TensorFlow. Transformers provides thousands of pretrained models to perform tasks on different modalities such as text, vision, and audio. 
-- [[EN]Colossal-AI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
-- [[]Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) - 中文LLaMA&Alpaca大语言模型+本地部署 (Chinese LLaMA & Alpaca LLMs)
+- [[EN|中文] Transformers](https://github.com/huggingface/transformers) - State-of-the-art Machine Learning for JAX, PyTorch and TensorFlow. Transformers provides thousands of pretrained models to perform tasks on different modalities such as text, vision, and audio. 
+- [[EN] Colossal-AI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
+- [[中文] Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) - 中文LLaMA&Alpaca大语言模型+本地部署 (Chinese LLaMA & Alpaca LLMs)
 
 ## Propmts
 
-- [[EN]Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
+- [[EN] Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [[中文] ChatGPT 中文调教指南](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
 
 ## ChatRWKV
 
-- [[EN]ChatRWKV](https://github.com/BlinkDL/ChatRWKV) - ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.
+- [[EN] ChatRWKV](https://github.com/BlinkDL/ChatRWKV) - ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.
 
 ## ChatGPT
 
 - [[中文] Awesome-ChatGPT](https://github.com/dalinvip/Awesome-ChatGPT) - ChatGPT资料汇总学习
-- [[EN]GPT4All](https://github.com/nomic-ai/gpt4all) - a chatbot trained on a massive collection of clean assistant data including code, stories and dialogue
+- [[EN] GPT4All](https://github.com/nomic-ai/gpt4all) - a chatbot trained on a massive collection of clean assistant data including code, stories and dialogue
 
 ## GPT
 
@@ -46,16 +46,16 @@ Contributions most welcome.
 
 ## Backend
 
-- [[EN]backend-GPT](https://github.com/TheAppleTucker/backend-GPT) - GPT is all you need for the backend
+- [[EN] backend-GPT](https://github.com/TheAppleTucker/backend-GPT) - GPT is all you need for the backend
 
 ## Tools
 
-- [[IDE]: Cursor](https://github.com/getcursor/cursor/) - An editor made for programming with AI
+- [[IDE] Cursor](https://github.com/getcursor/cursor/) - An editor made for programming with AI
 - [[VSCode Plugin] CodeCursor](https://github.com/Helixform/CodeCursor) - An extension for using Cursor in Visual Studio Code.
 
 ## Website
 
-- [[中文|EN]ChatGPT Next Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - 一键拥有你自己的 ChatGPT 网页服务。One-Click to deploy your own ChatGPT web UI.
+- [[中文|EN] ChatGPT Next Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - 一键拥有你自己的 ChatGPT 网页服务。One-Click to deploy your own ChatGPT web UI.
 
 ## License
 MIT
